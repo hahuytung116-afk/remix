@@ -1,0 +1,8 @@
+{
+  "name": "Remix Primal Defense: Animal Kingdom",
+  "description": "A high-stakes Tower Defense game where animals defend their territory against high-tech hunters. Features gacha summoning, rarity systems, and spinning units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
